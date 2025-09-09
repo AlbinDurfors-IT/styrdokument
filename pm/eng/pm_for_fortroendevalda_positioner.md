@@ -82,7 +82,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 #### 2.2.9 TMEIT
 
-- TranditionsMästare
+- TraditionsMästare
 - vice TraditionsMästare
 - Skattmästare
 
@@ -111,7 +111,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 #### 2.2.14 Other Positions
 
 - Auditor - two
-- Safety officer
+- Safety officer - at least 2
 - Standard bearer
 - vice Standard bearer
 - Stickkontaktsansvarig
