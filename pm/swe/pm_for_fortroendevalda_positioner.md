@@ -82,7 +82,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 #### 2.2.9 TMEIT
 
-- TranditionsMästare
+- TraditionsMästare
 - vice TraditionsMästare
 - Skattmästare
 
@@ -111,7 +111,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 #### 2.2.14 Andra Positioner
 
 - Revisor - två
-- Skyddsvårdsombud
+- Skyddsvårdsombud - minst 2
 - Fanbärare
 - vice Fanbärare
 - Stickkontaktsansvarig
